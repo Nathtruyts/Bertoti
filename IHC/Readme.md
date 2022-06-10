@@ -22,9 +22,19 @@
 * Exemplos de itens que evitam que ocorram erros no site
 
 ![6](https://user-images.githubusercontent.com/78803504/157878842-6251b2cd-8822-4498-b720-446274edaae1.png) ![7](https://user-images.githubusercontent.com/78803504/157879271-fa4d8537-fad6-4c3a-b250-7bf35ba73de6.png)
+![prevenção de erro](https://user-images.githubusercontent.com/78803504/172972040-e598e915-c054-4650-9d0b-dac0ace60ec9.png)
 
 
 # Flexibilidade e eficiência de uso
 
 * Links rápidos podem ser muito úteis para agilizar a navegação do usuário.
 ![8](https://user-images.githubusercontent.com/78803504/157880269-3e179f00-1c7b-4cbf-86c2-dfd62388b015.png)
+
+# Ajuda e documentação
+![Faq](https://user-images.githubusercontent.com/78803504/172972359-f7e7e02a-6aa2-4d51-aee1-ed1196b83c40.png)
+![github docs](https://user-images.githubusercontent.com/78803504/172972475-b33f780e-c624-41c2-b06d-37538dacd90e.png)
+
+# Visibilidade status do sistema
+![Trailer sandman](https://user-images.githubusercontent.com/78803504/172972755-35494b69-712b-4517-a10a-cfef22a50b16.png)
+![download xbox](https://user-images.githubusercontent.com/78803504/172973121-26907f75-d214-4dc7-b656-3dcde4ed5984.png)
+
