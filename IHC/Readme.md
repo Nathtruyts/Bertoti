@@ -29,6 +29,7 @@
 
 * Links rápidos podem ser muito úteis para agilizar a navegação do usuário.
 ![8](https://user-images.githubusercontent.com/78803504/157880269-3e179f00-1c7b-4cbf-86c2-dfd62388b015.png)
+![Captura de tela 2022-06-10 092759](https://user-images.githubusercontent.com/78803504/173067015-4c1411b8-2677-46de-b730-663906a6f310.png)
 
 # Ajuda e documentação
 ![Faq](https://user-images.githubusercontent.com/78803504/172972359-f7e7e02a-6aa2-4d51-aee1-ed1196b83c40.png)
